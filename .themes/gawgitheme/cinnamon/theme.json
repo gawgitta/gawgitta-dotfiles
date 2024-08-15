@@ -1,0 +1,10 @@
+{ 
+   "cinnamon-theme": {
+   "name": "gawgitheme", 
+   "author": "gawgitta", 
+   "version": "Rolling",
+   "type":   "custom",
+   "thumbnail": "thumbnail.png", 
+   "url": "https://www.github.com/gawgitta" 
+    }
+}

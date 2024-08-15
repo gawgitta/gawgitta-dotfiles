@@ -1,0 +1,21 @@
+{
+  "name": "dark-goldenrod-color-theme",
+  "displayName": "Dark Goldenrod",
+  "description": "gawgitta's custom vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Goldenrod",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-goldenrod-color-theme.json"
+      }
+    ]
+  }
+}

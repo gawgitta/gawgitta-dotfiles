@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=gawgitheme
+Comment=gawgitta's (un)original theme for Cinnamon DE
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=gawgitheme
+GtkColorScheme=prefer-dark
+IconTheme=Yaru-bark
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close

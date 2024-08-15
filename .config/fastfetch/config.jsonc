@@ -1,0 +1,23 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "modules": [
+    {"type": "title","format": "I'm sorry {6},"},
+    {"type": "custom","format": "I'm afraid I can't let you do that"},
+    "separator",
+    "os",
+    "kernel",
+    "packages",
+    {"type":"shell","format":"{6}"},
+    "de",
+    "wm",
+    {"type":"theme","format": "{2}"},
+    "wmtheme",
+    {"type":"icons","format": "{2}"},
+    {"type":"terminal","format":"{5}"},
+    "cpu",
+    {"type": "gpu","format": "{2}"},
+    "memory",
+    "break",
+    "colors"
+  ]
+}
