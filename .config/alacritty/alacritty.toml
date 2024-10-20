@@ -24,3 +24,20 @@ blue    = '#55b8ce'
 magenta = '#f4acc7'
 cyan    = '#00c8fc'
 white   = '#ffffff'
+
+# Font
+[font.bold]
+family = "Cousine Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "Cousine Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "Cousine Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "Cousine Nerd Font"
+style = "Regular"

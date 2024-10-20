@@ -6,7 +6,6 @@
     "separator",
     "os",
     "kernel",
-    "packages",
     {"type":"shell","format":"{6}"},
     "de",
     "wm",

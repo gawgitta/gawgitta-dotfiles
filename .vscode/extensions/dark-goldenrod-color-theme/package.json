@@ -2,7 +2,7 @@
   "name": "dark-goldenrod-color-theme",
   "displayName": "Dark Goldenrod",
   "description": "gawgitta's custom vscode theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.90.0"
   },

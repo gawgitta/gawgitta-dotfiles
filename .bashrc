@@ -116,8 +116,7 @@ if ! shopt -oq posix; then
   fi
 fi
 alias fetch='fastfetch'
-alias rimworld='~/.steam/debian-installation/steamapps/common/RimWorld/RimWorldLinux'
-. "$HOME/.cargo/env"
+alias vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

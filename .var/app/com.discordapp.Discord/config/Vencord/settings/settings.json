@@ -224,7 +224,13 @@
             "enabled": false
         },
         "ImageZoom": {
-            "enabled": true
+            "enabled": true,
+            "size": 100,
+            "zoom": 2,
+            "nearestNeighbour": false,
+            "square": false,
+            "saveZoomValues": true,
+            "zoomSpeed": 0.5
         },
         "ImplicitRelationships": {
             "enabled": false,
@@ -427,9 +433,6 @@
         "RoleColorEverywhere": {
             "enabled": false
         },
-        "SearchReply": {
-            "enabled": false
-        },
         "SecretRingToneEnabler": {
             "enabled": false
         },
@@ -580,6 +583,12 @@
         },
         "SupportHelper": {
             "enabled": true
+        },
+        "AccountPanelServerProfile": {
+            "enabled": false
+        },
+        "FullSearchContext": {
+            "enabled": false
         }
     },
     "notifications": {
@@ -592,6 +601,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1725746002153
+        "settingsSyncVersion": 1728775550234
     }
 }

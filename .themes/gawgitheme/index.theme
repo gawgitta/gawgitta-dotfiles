@@ -7,6 +7,7 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=gawgitheme
 GtkColorScheme=prefer-dark
-IconTheme=Yaru-bark
+MetacityTheme=gawgitheme
+IconTheme=Yaru-bark-dark
 CursorTheme=DMZ-White
 ButtonLayout=menu:minimize,maximize,close
