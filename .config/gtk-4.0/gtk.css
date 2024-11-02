@@ -32,7 +32,7 @@ headerbar:backdrop button:backdrop {
    as well the "shadow" image of inactive window icons
    for Mint-Y-Legacy themes.*/
  
-headerbar button.titlebutton,
+/*headerbar button.titlebutton,
 .titlebar button.titlebutton {
     background-image: none;
 }
