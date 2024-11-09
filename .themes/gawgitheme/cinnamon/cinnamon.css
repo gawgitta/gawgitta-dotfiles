@@ -1428,7 +1428,7 @@ StScrollBar StButton#hhandle:focus {
  * ===================================================================*/
 
  .menu-background {
-  background-color: rgba(31, 27, 22, 0.85);;
+  background-color: rgba(31, 27, 22, 1);;
   border: 1px solid #202020; }
 
 /* Main menu title */
